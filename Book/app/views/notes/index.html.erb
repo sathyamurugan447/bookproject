@@ -1,0 +1,21 @@
+<h1 class="current-category"><%= params[:category] %></h1>
+
+<% if @notes.count == 0 %>
+
+  <h1>There are no books currently in this category</h1>
+
+<% else %>
+
+  <div class="row">
+
+    <% @notes.each do |note| %>
+
+      <div class="col-md-3">
+        <a href="/notes/<%= note.id %>">
+  	      <%= image_tag note.note_img.url(:note_index), class:"book" %>
+        </a>
+       </div>
+    <% end %>
+  </div>
+<% end %>
+

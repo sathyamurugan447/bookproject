@@ -1,0 +1,197 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Bitnami/ruby/Book/app/views/reviews/new.html.erb",
+		"/C/Bitnami/ruby/Book/app/views/notes/index.html.erb",
+		"/C/Bitnami/ruby/Book/app/views/notes/_form.html.erb",
+		"/C/Bitnami/ruby/Book/app/views/notes/new.html.erb",
+		"/C/Bitnami/ruby/Book/app/models/review.rb",
+		"/C/Bitnami/ruby/Book/app/views/reviews/_review.html.erb",
+		"/C/Bitnami/ruby/Book/app/views/notes/show.html.erb",
+		"/C/Bitnami/ruby/Book/app/views/notes/edit.html.erb",
+		"/C/Bitnami/ruby/Book/app/controllers/application_controller.rb",
+		"/C/Bitnami/ruby/Book/app/controllers/notes_controller.rb",
+		"/C/Bitnami/ruby/Book/app/views/reviews/_form.html.erb",
+		"/C/Bitnami/ruby/Book/app/views/devise/sessions/new.html.erb",
+		"/C/Bitnami/ruby/Book/app/views/devise/registrations/new.html.erb",
+		"/C/Bitnami/ruby/Book/app/views/reviews/edit.html.erb",
+		"/C/Bitnami/ruby/Book/app/assets/images/.keep",
+		"/C/Bitnami/ruby/Book/app/controllers/reviews_controller.rb",
+		"/C/Bitnami/ruby/Book/config/routes.rb",
+		"/C/Bitnami/ruby/Book/app/models/user.rb",
+		"/C/Bitnami/ruby/Book/app/models/category.rb",
+		"/C/Bitnami/ruby/Book/app/javascript/packs/application.js",
+		"/C/Bitnami/ruby/Book/db/migrate/20210126160624_add_attachment_note_img_to_notes.rb",
+		"/C/Bitnami/ruby/Book/app/models/note.rb",
+		"/C/Bitnami/ruby/Book/app/assets/javascript/application.js",
+		"/C/Bitnami/ruby/Book/app/assets/stylesheets/application.css.scss",
+		"/C/Bitnami/ruby/Book/app/views/layouts/application.html.erb",
+		"/C/Bitnami/ruby/Book/config/environments/development.rb",
+		"/C/Bitnami/ruby/Book/Gemfile",
+		"/C/Bitnami/ruby/Book/db/migrate/20210124081759_create_categories.rb",
+		"/C/Bitnami/ruby/Book/app/assets/stylesheets/jquery.raty.js",
+		"/C/Bitnami/ruby/Book/app/javascript/stylesheets/application.css.scss",
+		"/C/Bitnami/ruby/Book/db/migrate/20210126155056_add_attachment_book_img_to_books.rb",
+		"/C/Bitnami/ruby/Book/db/migrate/20210123231628_create_notes.rb",
+		"/C/Bitnami/ruby/Book/db/migrate/20210124053145_add_user_id_to_notes.rb"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 39.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "book.sublime-project",
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 431.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
